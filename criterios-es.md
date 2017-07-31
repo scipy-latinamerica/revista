@@ -9,10 +9,13 @@ Las propuestas de trabajo para la revista podrán ser de 4 tipos:
 
 Los criterios de selección de estos materiales varian de por tipo de material,
 pero todos los materiales tienen que estar relacionados con Python y con temas 
-científicos. Los textos enviados deberán estar bajo licensia CC 4.0 BY-SA**.
-Los contenidos deberán ser revisados por un comité.
+científicos. Los textos enviados deberán estar bajo licensia CC 4.0 BY-SA\*\*.
+La persona que envía el texto deberá ser y/o residir en un país de Latinoamérica o 
+el proyecto referido en el texto debe será estar relacionado con Latinoamérica.
 
-Cada material tendrá algunos criterios específicos que serán detallados en seguida.
+Después de enviados, los contenidos deberán ser revisados por un comité.
+
+Cada material tendrá algunos criterios específicos que serán detallados a continación.
 
 ## Material de presentación comunidad
 
