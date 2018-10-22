@@ -1,6 +1,4 @@
-# Revista Informativa Python Científico América Latina
-
-pt-br
+# PT: Revista Informativa Python Científico América Latina
 
 Revista informativa para projetos de Python Científico 
 
@@ -15,6 +13,11 @@ Trimestralmente o conteúdo será compilado em PDF
 
 As submissões serão feitas em Jupyter Notebook.
 
+Os critérios de submissão estão em:
+
+
+https://github.com/scipy-latinamerica/revista/blob/master/criterios-es.md
+
 ### Resumos
 
 Se o texto estiver em Espanhol ou PT, resumo deve ser submetido em Inglês
@@ -22,6 +25,4 @@ Se o texto estiver em Espanhol ou PT, resumo deve ser submetido em Inglês
 Se o texto estiver em Inglês, resumo deve estar em Espanhol/Português
 
 
-es
-
-Revista informativa para proyectos de Python Científico
+# ES: Revista Informativa Python Científico América Latina
