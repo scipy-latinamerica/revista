@@ -4,6 +4,13 @@ Revista informativa para projetos de Python Científico
 
 Espaço para difundir as atividades das comunidades relacionadas a Python Científico, ser um espaço informativo sobre o tema.
 
+### Equipes de trabalho
+
+- Editorial
+- Tradução
+- Técnico
+
+
 ### Formato
 Revista Blog
 
