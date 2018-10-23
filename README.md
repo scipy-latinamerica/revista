@@ -9,7 +9,8 @@ Espaço para difundir as atividades das comunidades relacionadas a Python Cient�
 - Editorial
 - Tradução
 - Técnico
-
+- Design
+- Comunicação
 
 ### Formato
 Revista Blog
